@@ -3,7 +3,7 @@ I am Dylan Leothaud, a student at [ENS Rennes](https://www.ens-rennes.fr/) and [
 {{< resume-section title="Research experience" >}}
 
 {{< resume-item date="2023-present" name="LOTR (Lord of The RISCs)" location="IRISA and CEA" location2="France">}}
-ANR research project. [link](href=\"https://lotr.gitlabpages.inria.fr/website/\")
+ANR research project. [link](https://lotr.gitlabpages.inria.fr/website/)
 {{< /resume-item >}}
 
 {{< resume-item date="2023-present" name="Automatic synhesis of secure and predictable processors for the Internet of Thing" location="Taran team" location2="IRISA, Rennes, France" >}}
@@ -11,7 +11,7 @@ Ph.D. in computer science
 {{< /resume-item >}}
 
 {{< resume-item date="2023" name="Automatic synthesis of micro-architecture for CISC instruction sets: a case study on WebAssembly" location="Taran team" location2=" IRISA, Rennes, France" >}}
-Computer science research internship
+Computer science research internship. [french report](/pdf/report_2023.pdf)
 {{< /resume-item >}}
 
 {{< resume-item date="2022" name="Accelerating the Multiple Constant Multiplication Problem on FPGAs using HLS" location="Fulda University of Applied Sciences" location2=" Fulda, Germany" >}}
@@ -19,7 +19,7 @@ Computer science research internship
 {{< /resume-item >}}
 
 {{< resume-item date="2021" name="Hardware acceleration of maximum weight clique problem" location="Taran team" location2=" IRISA, Rennes, France" >}}
-Computer science research internship
+Computer science research internship. [french report](/pdf/report_2021_french.pdf)
 {{< /resume-item >}}
 
 {{< /resume-section >}}
@@ -49,7 +49,7 @@ first year of science and technology (ISTN) Bachelor's degree
 
 
 {{< resume-item date="2024" name="CIRCT / Circuit IR Compilers and Tools" location="llvm" location2="contributor" >}}
-[github](https://github.com/llvm/circt/)
+[github link](https://github.com/llvm/circt/)
 {{< /resume-item >}}
 
 {{< /resume-section >}}
