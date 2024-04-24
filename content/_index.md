@@ -69,7 +69,11 @@ Computer science, Research-oriented curriculum
 {{< /resume-item >}}
 
 {{< resume-item date="2017-2020" name="MPSI-MP preparatory classes" location="Lycée Carnot" location2="Dijon, France" >}}
-{{< /resume-item >}}
+{{< /resume-item >}} 
+
+{{< resume-item date=" " name=" " location=" " location2=" " >}}
+{{< /resume-item >}} 
+
 
 {{< resume-item date="2017" name="Baccalaureate. scientific major" location="Lycée Nicéphore Niepce" location2="Chalon-sur-Saône, France" >}}
 {{< /resume-item >}}
