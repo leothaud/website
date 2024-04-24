@@ -1,0 +1,28 @@
+{{ $inner := .Inner }}
+
+<div class="column is-2">
+    <a href="{{ .Get "website" | safeURL }}">
+        {{ with .Get "logo" }}
+        <figure class="image is-64x64">
+            <img src="{{ . }}">
+        </figure>
+        {{ end }}
+    </a>
+</div>
+<div class="column is-10">
+    <div class="columns is-marginless is-gapless">
+        <div class="column">
+            {{ with .Get "name" }}
+            <h3 class="title is-4 is-marginless">{{ . }}</h3>
+            {{ else }}
+            {{ errorf "missing value for param 'name': %s" .Position }}
+            {{ end }}
+        </div>
+        {{ with .Get "role" }}
+        <div class="column is-narrow">
+            <i>{{ . }}</i>
+        </div>
+        {{ end }}
+    </div>
+    <p>{{ $inner | markdownify }}</p>
+</div>

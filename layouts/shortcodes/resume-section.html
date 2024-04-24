@@ -1,0 +1,17 @@
+{{ $title := .Get "title" | default "Default title" }}
+
+<section class="section">
+    <div class="multicol_container">
+        <div class="columns">
+            <div class="column is-1">
+                <hr class="resume-section-rule">
+            </div>
+            <div class="column is-11">
+                <h2 class="title is-2">{{ $title }}</h2>
+            </div>
+        </div>
+        <div class="columns is-multiline is-vcentered">
+            {{ .Inner }}
+        </div>
+    </div>
+</section>

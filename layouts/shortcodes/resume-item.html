@@ -1,0 +1,28 @@
+{{ $inner := .Inner }}
+
+<div class="column is-2">
+    {{ with .Get "date" }}
+    {{ $formattedDate := replace . "-" "--" }}
+    <div class="resume-date subtitle is-5">{{ $formattedDate | markdownify }}</div>
+    {{ end }}
+</div>
+<div class="column is-10">
+    <div class="columns is-marginless is-gapless">
+        <div class="column">
+            {{ with .Get "name" }}
+            <h3 class="title is-4 is-marginless">{{ . }}</h3>
+            {{ else }}
+            {{ errorf "missing value for param 'name': %s" .Position }}
+            {{ end }}
+        </div>
+        <div style="height:1px;text-align:right" class="column is-narrow align-right">
+        <i>{{ with .Get "location" }}
+            {{ . }}
+            {{ end }}<br/>
+        {{ with .Get "location2" }}
+            {{ . }}
+        {{ end }}</i>
+        </div>
+    </div>
+    <p>{{ $inner | markdownify }}</p>
+</div>
