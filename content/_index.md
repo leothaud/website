@@ -27,11 +27,11 @@ Computer science research internship. [french report](/pdf/report_2021_french.pd
 {{< resume-section title="Publication" >}}
 
 {{< resume-item date="2024" name="Efficient Design Space Exploration for Dynamic & Speculative High-Level Synthesis" location="FPL 2024" location2="Turin, Italy" >}}
-Dylan Leothaud, Jean-Michel Gorius, Simon Rokicki, Steven Derrien
+Dylan Leothaud, Jean-Michel Gorius, Simon Rokicki, Steven Derrien [link on HAL](https://hal.science/hal-04615767)
 {{< /resume-item >}}
 
 {{< resume-item date="2024" name="Exploration efficace d’espace de conception pour la synthèse de haut-niveau dynamique et spéculative" location="Compas 2024" location2="Nantes, France" >}}
-Dylan Leothaud, Jean-Michel Gorius, Simon Rokicki, Steven Derrien
+Dylan Leothaud, Jean-Michel Gorius, Simon Rokicki, Steven Derrien [link on HAL](https://hal.science/hal-04615776)
 {{< /resume-item >}}
 
 {{< /resume-section >}}
