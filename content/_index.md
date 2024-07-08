@@ -31,7 +31,7 @@ Dylan Leothaud, Jean-Michel Gorius, Simon Rokicki, Steven Derrien [view on HAL](
 {{< /resume-item >}}
 
 {{< resume-item date="2024" name="Exploration efficace d’espace de conception pour la synthèse de haut-niveau dynamique et spéculative" location="Compas 2024" location2="Nantes, France" >}}
-Dylan Leothaud, Jean-Michel Gorius, Simon Rokicki, Steven Derrien [view on HAL](https://hal.science/hal-04615776)
+Dylan Leothaud, Jean-Michel Gorius, Simon Rokicki, Steven Derrien [view on HAL](https://hal.science/hal-04615776) [slides](/pdf/compas.pdf)
 {{< /resume-item >}}
 
 {{< /resume-section >}}
