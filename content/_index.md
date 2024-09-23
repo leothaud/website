@@ -1,5 +1,8 @@
 I am Dylan Leothaud, a student at [ENS Rennes](https://www.ens-rennes.fr/) and [University of Rennes](https://www.univ-rennes.fr/). I am now doing a Ph.D. at the [IRISA](https://www.irisa.fr/) in the [TARAN](https://team.inria.fr/taran) team, supervised by [Steven Derrien](https://people.irisa.fr/Steven.Derrien/wordpress/) ([Université de Bretagne Occidentale](https://www.univ-brest.fr/), [lab-STICC](https://labsticc.fr/)) and [Simon Rokicki](http://people.irisa.fr/Simon.Rokicki) ([ENS Rennes](https://www.ens-rennes.fr/), [IRISA](https://www.irisa.fr/)). I am working on the [LOTR (Lord Of The RISCs)](https://lotr.gitlabpages.inria.fr/website/) project. You can contact me by email at dylan.leothaud@irisa.fr.
 
+
+<!-- Research experience -->
+
 {{< resume-section title="Research experience" >}}
 
 {{< resume-item date="2023-present" name="LOTR (Lord of The RISCs)" location="IRISA and CEA" location2="France">}}
@@ -24,10 +27,16 @@ Computer science research internship. [french report](/pdf/report_2021_french.pd
 
 {{< /resume-section >}}
 
+
+
+
+
+<!-- Publication -->
+
 {{< resume-section title="Publication" >}}
 
 {{< resume-item date="2024" name="Efficient Design Space Exploration for Dynamic & Speculative High-Level Synthesis" location="FPL 2024" location2="Turin, Italy" >}}
-Dylan Leothaud, Jean-Michel Gorius, Simon Rokicki, Steven Derrien [view on HAL](https://hal.science/hal-04615767)
+Dylan Leothaud, Jean-Michel Gorius, Simon Rokicki, Steven Derrien [view on HAL](https://hal.science/hal-04615767) [slides](/pdf/fpl24.pdf)
 {{< /resume-item >}}
 
 {{< resume-item date="2024" name="Exploration efficace d’espace de conception pour la synthèse de haut-niveau dynamique et spéculative" location="Compas 2024" location2="Nantes, France" >}}
@@ -36,6 +45,19 @@ Dylan Leothaud, Jean-Michel Gorius, Simon Rokicki, Steven Derrien [view on HAL](
 
 {{< /resume-section >}}
 
+
+
+<!-- Service -->
+{{< resume-section title="Service" >}}
+
+{{< resume-item date="2024" name="Subreviewer ASAP'24" location="" location2="" >}}
+35th IEEE International Conference on Application-specific Systems, Architectures and Processors
+{{< /resume-item >}}
+
+{{< /resume-section >}}
+
+
+<!-- Teaching -->
 
 {{< resume-section title="Teaching" >}}
 
@@ -57,14 +79,22 @@ first year of science and technology (ISTN) Bachelor's degree
 
 {{< /resume-section >}}
 
-{{< resume-section title="Projects" >}}
 
+
+<!-- Projects -->
+
+{{< resume-section title="Projects" >}}
 
 {{< resume-item date="2024" name="CIRCT / Circuit IR Compilers and Tools" location="llvm" location2="contributor" >}}
 [github link](https://github.com/llvm/circt/)
 {{< /resume-item >}}
 
 {{< /resume-section >}}
+
+
+
+
+<!-- Education -->
 
 {{< resume-section title="Education" >}}
 

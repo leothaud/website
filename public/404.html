@@ -248,7 +248,28 @@
 <div class="not-found">404</div>
     </main>
     
-<footer class="footer" style="@media print { display:none !important; }">
+<footer class="footer">
+<style>
+@media print {
+  .footer {
+    display: none;
+  }
+  .top-link {
+    display: none;
+  }
+  .logo-switches {
+    display: none;
+  }
+  .post-content a {
+    text-decoration: none !important;
+  }
+  
+  .logo a {
+    font-size: 45px;
+  }
+  
+}
+</style>
     <span>&copy; 2024 <a href="http://localhost:1313/">Dylan Leothaud</a></span>
     <span>
         Powered by
