@@ -62,7 +62,7 @@ Dylan Leothaud, Jean-Michel Gorius, Simon Rokicki, Steven Derrien [view on HAL](
 
 {{< resume-section title="Teaching" >}}
 
-{{< resume-item date="2024-2025" name="Compilation. Practical classes" location="University of Rennes" location2="France" >}}
+{{< resume-item date="2024-2025" name="Compilation. Practical classes" location="ENS Rennes" location2="France" >}}
 First year of computer science (SIF) master's degree
 {{< /resume-item >}}
 
