@@ -62,7 +62,11 @@ Dylan Leothaud, Jean-Michel Gorius, Simon Rokicki, Steven Derrien [view on HAL](
 
 {{< resume-section title="Teaching" >}}
 
-{{< resume-item date="2023-2024" name="Computer system. Practical classes" location="University of Rennes" location2="France" >}}
+{{< resume-item date="2024-2025" name="Compilation. Practical classes" location="University of Rennes" location2="France" >}}
+First year of computer science (SIF) master's degree
+{{< /resume-item >}}
+
+{{< resume-item date="2023-2025" name="Computer system. Practical classes" location="University of Rennes" location2="France" >}}
 Final year of IT for business management (MIAGE) Bachelor's degree
 {{< /resume-item >}}
 
@@ -70,11 +74,11 @@ Final year of IT for business management (MIAGE) Bachelor's degree
 Final year of computer science (INFO) Bachelor's degree
 {{< /resume-item >}}
 
-{{< resume-item date="2023-2024" name="Hardware Architecture. Practical classes" location="ENS Rennes" location2="France" >}}
+{{< resume-item date="2023-2025" name="Hardware Architecture. Practical classes" location="ENS Rennes" location2="France" >}}
 final year of computer science (SIF) Bachelor's degree
 {{< /resume-item >}}
 
-{{< resume-item date="2023-2024" name="Practical classes on how to use IT tools for professional projects" location="University of Rennes" location2="France" >}}
+{{< resume-item date="2023-2025" name="Practical classes on how to use IT tools for professional projects" location="University of Rennes" location2="France" >}}
 first year of science and technology (ISTN) Bachelor's degree
 {{< /resume-item >}}
 
