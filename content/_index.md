@@ -33,11 +33,11 @@ Computer science research internship. [french report](/pdf/report_2021_french.pd
 
 <!-- Publication -->
 
-{{< resume-section title="Publication" >}}
+{{< resume-section title="Publications" >}}
 
 {{< resume-item date="2025" name="Optimizing Recovery Logic in Speculative High-Level Synthesis" location="DAC 2025" location2="San Francisco, USA" >}}
 Dylan Leothaud, Jean-Michel gorius, Simon Rokicki, Steven Derrien  
-[view on HAL](https://hal.science/hal-05140504/), [slides](/pdf/DAC_2025_presentation.pdf), [poster](https://hal.science/hal-05140532v1)
+[view on HAL](https://hal.science/hal-05140504/), [view on IEEEXplore](https://ieeexplore.ieee.org/document/11133015), [slides](/pdf/DAC_2025_presentation.pdf), [poster](https://hal.science/hal-05140532v1)
 {{< /resume-item >}}
 
 {{< resume-item date="2024" name="Efficient Design Space Exploration for Dynamic & Speculative High-Level Synthesis" location="FPL 2024" location2="Turin, Italy" >}}
@@ -68,11 +68,11 @@ Dylan Leothaud, Jean-Michel Gorius, Simon Rokicki, Steven Derrien
 
 {{< resume-section title="Teaching" >}}
 
-{{< resume-item date="2024-2025" name="Compilation. Practical classes" location="ENS Rennes" location2="France" >}}
+{{< resume-item date="2024-2026" name="Compilation. Practical classes" location="ENS Rennes" location2="France" >}}
 First year of computer science (SIF) master's degree
 {{< /resume-item >}}
 
-{{< resume-item date="2023-2025" name="Computer system. Practical classes" location="University of Rennes" location2="France" >}}
+{{< resume-item date="2023-2026" name="Computer system. Practical classes" location="University of Rennes" location2="France" >}}
 Final year of IT for business management (MIAGE) Bachelor's degree
 {{< /resume-item >}}
 
@@ -80,11 +80,11 @@ Final year of IT for business management (MIAGE) Bachelor's degree
 Final year of computer science (INFO) Bachelor's degree
 {{< /resume-item >}}
 
-{{< resume-item date="2023-2025" name="Hardware Architecture. Practical classes" location="ENS Rennes" location2="France" >}}
+{{< resume-item date="2023-2026" name="Hardware Architecture. Practical classes" location="ENS Rennes" location2="France" >}}
 final year of computer science (SIF) Bachelor's degree
 {{< /resume-item >}}
 
-{{< resume-item date="2023-2025" name="Practical classes on how to use IT tools for professional projects" location="University of Rennes" location2="France" >}}
+{{< resume-item date="2023-2026" name="Practical classes on how to use IT tools for professional projects" location="University of Rennes" location2="France" >}}
 first year of science and technology (ISTN) Bachelor's degree
 {{< /resume-item >}}
 
