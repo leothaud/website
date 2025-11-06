@@ -36,7 +36,7 @@ Computer science research internship. [french report](/pdf/report_2021_french.pd
 {{< resume-section title="Publications" >}}
 
 {{< resume-item date="2025" name="Optimizing Recovery Logic in Speculative High-Level Synthesis" location="DAC 2025" location2="San Francisco, USA" >}}
-Dylan Leothaud, Jean-Michel gorius, Simon Rokicki, Steven Derrien  
+Dylan Leothaud, Jean-Michel Gorius, Simon Rokicki, Steven Derrien  
 [view on HAL](https://hal.science/hal-05140504/), [view on IEEEXplore](https://ieeexplore.ieee.org/document/11133015), [slides](/pdf/DAC_2025_presentation.pdf), [poster](https://hal.science/hal-05140532v1)
 {{< /resume-item >}}
 
