@@ -35,6 +35,16 @@ Computer science research internship. [french report](/pdf/report_2021_french.pd
 
 {{< resume-section title="Publications" >}}
 
+{{< resume-item date="2026" name="Area Efficient Speculative Loop Pipelining for High-Level Synthesis" location="DATE 2026" location2="Verona, Italy" >}}
+Dylan Leothaud, Simon Rokicki, Steven Derrien, Isabelle Puaut  
+[view on HAL](https://hal.science/hal-05365717)
+{{< /resume-item >}}
+
+{{< resume-item date="2026" name="Automatic Extraction of Timing Models for WCET Estimation From High-Level Synthesis Flow" location="DATE 2026" location2="Verona, Italy" >}}
+Thomas Feuilletin, Dylan Leothaud, Simon Rokicki, Steven Derrien, Isabelle Puaut  
+[view on HAL](https://hal.science/hal-05365718)
+{{< /resume-item >}}
+
 {{< resume-item date="2025" name="Optimizing Recovery Logic in Speculative High-Level Synthesis" location="DAC 2025" location2="San Francisco, USA" >}}
 Dylan Leothaud, Jean-Michel Gorius, Simon Rokicki, Steven Derrien  
 [view on HAL](https://hal.science/hal-05140504/), [view on IEEEXplore](https://ieeexplore.ieee.org/document/11133015), [slides](/pdf/DAC_2025_presentation.pdf), [poster](https://hal.science/hal-05140532v1)
