@@ -123,7 +123,7 @@ first year of science and technology (ISTN) Bachelor's degree
 Computer science (SIF)
 {{< /resume-item >}}
 
-{{< resume-item date="2020-2021" name="Bachelor's degree" location="University of Rennes1" location2="Rennes, France" >}}
+{{< resume-item date="2020-2021" name="Bachelor's degree" location="University of Rennes" location2="Rennes, France" >}}
 Computer science (SIF)
 {{< /resume-item >}}
 
