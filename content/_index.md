@@ -9,7 +9,7 @@ I am Dylan Leothaud, a student at [ENS Rennes](https://www.ens-rennes.fr/) and [
 ANR research project. [link](https://lotr.gitlabpages.inria.fr/website/)
 {{< /resume-item >}}
 
-{{< resume-item date="2023-present" name="Automatic synhesis of secure and predictable processors for the Internet of Thing" location="Taran team" location2="IRISA, Rennes, France" >}}
+{{< resume-item date="2023-present" name="High-Level Synthesis of speculative circuit: design-space exploration and area optimisations" location="Taran team" location2="IRISA, Rennes, France" >}}
 Ph.D. in computer science
 {{< /resume-item >}}
 
