@@ -35,6 +35,11 @@ Computer science research internship. [french report](/pdf/report_2021_french.pd
 
 {{< resume-section title="Publications" >}}
 
+{{< resume-item date="2026" name="Automatic Timing Model Generation from High-Level Synthesis Flow" location="TADAM 2026" location2="Saint Malo, France" >}}
+Thomas Feuilletin, Dylan Leothaud, Simon Rokicki, Steven Derrien, Isabelle Puaut  
+[view on HAL](https://univ-brest.hal.science/hal-05603295v1) [alternative link](https://www.irit.fr/tadam2026/wp-content/uploads/2026/04/tadam26-paper96.pdf)
+{{< /resume-item >}}
+
 {{< resume-item date="2026" name="Area Efficient Speculative Loop Pipelining for High-Level Synthesis" location="DATE 2026" location2="Verona, Italy" >}}
 Dylan Leothaud, Simon Rokicki, Steven Derrien, Isabelle Puaut  
 [view on HAL](https://hal.science/hal-05365717)
