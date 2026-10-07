@@ -1,7 +1,7 @@
 
 <!-- experience -->
 
-{{< resume-section title="experience" >}}
+{{< resume-section title="Experience" >}}
 
 {{< resume-item date="2026-current" name="Harwdare Designer" location="Keysom" location2="Pessac, France" >}}
 {{< /resume-item >}}
