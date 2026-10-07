@@ -1,15 +1,16 @@
-I am Dylan Leothaud, a student at [ENS Rennes](https://www.ens-rennes.fr/) and [University of Rennes](https://www.univ-rennes.fr/). I am now doing a Ph.D. at the [IRISA](https://www.irisa.fr/) in the [TARAN](https://team.inria.fr/taran) team, supervised by [Steven Derrien](https://people.irisa.fr/Steven.Derrien/wordpress/) ([Université de Bretagne Occidentale](https://www.univ-brest.fr/), [lab-STICC](https://labsticc.fr/)) and [Simon Rokicki](http://people.irisa.fr/Simon.Rokicki) ([ENS Rennes](https://www.ens-rennes.fr/), [IRISA](https://www.irisa.fr/)). I am working on the [LOTR (Lord Of The RISCs)](https://lotr.gitlabpages.inria.fr/website/) project. You can contact me by email at dylan.leothaud@irisa.fr.
 
+<!-- experience -->
 
-<!-- Research experience -->
+{{< resume-section title="experience" >}}
 
-{{< resume-section title="Research experience" >}}
+{{< resume-item date="2026-current" name="Harwdare Designer" location="Keysom" location2="Pessac, France" >}}
+{{< /resume-item >}}
 
-{{< resume-item date="2023-present" name="LOTR (Lord of The RISCs)" location="IRISA and CEA" location2="France">}}
+{{< resume-item date="2023-2026" name="LOTR (Lord of The RISCs)" location="IRISA and CEA" location2="France">}}
 ANR research project. [link](https://lotr.gitlabpages.inria.fr/website/)
 {{< /resume-item >}}
 
-{{< resume-item date="2023-present" name="High-Level Synthesis of speculative circuit: design-space exploration and area optimisations" location="Taran team" location2="IRISA, Rennes, France" >}}
+{{< resume-item date="2023-2026" name="High-Level Synthesis of speculative circuit: design-space exploration and area optimisations" location="Taran team" location2="IRISA, Rennes, France" >}}
 Ph.D. in computer science
 {{< /resume-item >}}
 
@@ -123,6 +124,9 @@ first year of science and technology (ISTN) Bachelor's degree
 <!-- Education -->
 
 {{< resume-section title="Education" >}}
+
+{{< resume-item date="2023-2026" name="Ph.D in computer science" location="University of Rennes" location2="Rennes, France" >}}
+{{< /resume-item >}}
 
 {{< resume-item date="2021-2023" name="Master's degree" location="University of Rennes" location2="Rennes, France" >}}
 Computer science (SIF)
